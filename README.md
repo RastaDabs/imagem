@@ -1,0 +1,2 @@
+# imagem
+acervo imagens generativas
